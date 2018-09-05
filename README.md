@@ -3,27 +3,27 @@
 A web application for renting houses. I used: HTML/CSS, PHP, and MYSQL.
 Server is XAMPP (Apache).
 
-Login
+# Login
 
 ![alt text](screenshot/login.png)
 
-Signup
+# Signup
 
 ![alt text](screenshot/signup.png)
 
-Main Page
+# Main Page
 
 ![alt text](screenshot/main.png)
 
-Database - User Table
+# Database - User Table
 
 ![alt text](screenshot/usertable.png)
 
-Database - Rental Table
+# Database - Rental Table
 
 ![alt text](screenshot/rentaltable.png)
 
-Main Logic (PHP)
+# Main Logic (PHP)
 
 ![alt text](screenshot/code.png)
 
