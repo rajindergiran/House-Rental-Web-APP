@@ -12,8 +12,10 @@ Signup
 Main Page
 ![alt text](screenshot/main.png)
 
-Database creation
+Database - User Table
 ![alt text](screenshot/usertable.png)
+
+Database - Rental Table
 ![alt text](screenshot/rentaltable.png)
 
 Main Logic (PHP)
